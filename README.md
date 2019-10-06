@@ -4,7 +4,7 @@ Diffusion Hackathon 2019 https://diffusion.events/
 # Team
 
 - [JC (Jan Christoph Ebersbach)](https://github.com/jceb/)
-- ..
+- [Gaurav B. Chaudhari](https://github.com/gauravc95/)
 
 # Ideas
 
